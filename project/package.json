@@ -1,0 +1,15 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Homework 1",
+  "main": "hw.mjs",
+  "scripts": {
+    "start": "node hw.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kseniya",
+  "license": "ISC",
+  "dependencies": {
+    "simple-npm-package": "^3.0.8"
+  }
+}
